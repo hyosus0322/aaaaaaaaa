@@ -1,1 +1,1 @@
-worker: python vpy
+worker: python v.py
